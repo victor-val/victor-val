@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Victor 
+## Hi there 👋 My name is Victor Val
 ### I'm a Software Developer focused on Angular
 
 <hr/>
